@@ -1,6 +1,6 @@
-**# rebrand
-The rebranding text from mtops to tesseract pro
-**Dear MTOPS MTS Community,
+# Meet Tesseract Pro
+
+Dear MTOPS MTS Community,
 
 I am thrilled to announce a major transformation for MTOPS MTS. MTS is rebranding as Tesseract Pro, representing a new era in the platform's evolution. With this rebranding, I aim to provide an enhanced charting experience, expanded features, and an even stronger community for all our valued users.
 
